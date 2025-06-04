@@ -20,7 +20,7 @@ Este dashboard interativo foi desenvolvido para visualizar métricas chave de ve
 ## 🛠️ Tecnologias Utilizadas
 
 * **Microsoft Power BI Desktop:** Ferramenta principal utilizada para a criação e visualização do dashboard.
-* * **Power Query:** Essencial para a **conexão, limpeza e transformação** dos dados brutos, garantindo a qualidade e o formato adequado para a análise.
+* **Power Query:** Essencial para a **conexão, limpeza e transformação** dos dados brutos, garantindo a qualidade e o formato adequado para a análise.
 
 ## 🔗 Acesso ao Projeto
 
